@@ -5,7 +5,7 @@
 
 > ***Note:*** _This can be a pair programming activity or done independently._
 
-###Description
+### Description
 
 
 Imagine it's 13 months from now, and you've started taking on work as a freelance developer.  So far you've done work for (imaginary) companies like Relaxr, Startup Matchmaker, and Citipix, and you want to showcase the web apps and landing pages you've built for them.  Take what you've learned from class and the prework and build a portfolio site, using HTML and simple CSS, that showcases your hard work from the past 13 months.
