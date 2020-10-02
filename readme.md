@@ -32,7 +32,7 @@ Create two pages - an 'About Page' and a 'Portfolio' - that link to one another.
 
 #### Starter code
 
-There is **no starter code** for this assignment (only [starter text](starter-code/sample-copy.txt)). You're going to build this assignment from scratch and should feel free to get creative with regard to layout, color, styling, etc.
+There is **no starter code** for this assignment (only [starter text](starter-code/sample-copy.txt)). You're going to build this assignment from scratch and should feel free to get creative with regard to layout, color, styling, etc. In the starter-code directory there are some images and sample test for the users to get started with this.
 
 #### Deliverable
 
